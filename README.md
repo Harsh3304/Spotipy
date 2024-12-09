@@ -51,7 +51,14 @@ python Spotipy.py
 ## 🖼️ Screenshots
 
 1. **Home page (For new User)**
-    ![alt text](Images/home_screen.png)
+    ![alt text](/Dependencies/readme_images/new_user_screen.png)
+
+2. **Home page (With Music Entries)**
+    ![alt text](/Dependencies/readme_images/screen_with_song_screen.png)
+
+3. **Home page (With Music Entries - Dark Mode)**
+    ![alt text](/Dependencies/readme_images/screen_with_song_screen.png)
+
 
 ### Features Guide:
 
