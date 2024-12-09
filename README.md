@@ -16,7 +16,7 @@ A feature-rich music player built with Python and MySQL, this application provid
 - 🕒 Real-time progress bar and duration display
 - 📂 File browser for local music selection
 
-## Prerequisites
+## 📦 Prerequisites
 
 Make sure you have Python 3.7/3.11 installed and the following dependencies:
 
@@ -24,7 +24,7 @@ Make sure you have Python 3.7/3.11 installed and the following dependencies:
 pip install pygame mutagen beautifulsoup4 pydub pillow yt-dlp tk youtube-search-python win10toast pywin32 requests pythumb mysql-connector-python
 ```
 
-## Installation
+## 🚀 Installation
 
 1. Clone this repository:
 ```bash
@@ -41,7 +41,7 @@ pip install -r requirements.txt
    - Configure the database connection in the application
    - Run the included SQL schema (if provided)
 
-## Usage
+## 💻 Usage
 
 Run the application:
 ```bash
@@ -54,16 +54,16 @@ python Spotipy.py
     ![alt text](/Dependencies/readme_images/new_user_screen.png)
 
 2. **Home Page with Songs**  
-   <img src="readme_images/song_screen.png" alt="SignIn Page" width="700">  
+   <img src="/Dependencies/readme_images/light.png" alt="SignIn Page" width="700">  
    SignIn page
 
 2. **Home Page -- Dark mode**  
-   <img src="readme_images/song_screen.png" alt="SignIn Page" width="700">  
+   <img src="/Dependencies/readme_images/dark.png" alt="SignIn Page" width="700">  
    SignIn page
 
 
 
-### Features Guide:
+### 🔍 Features Guide:
 
 1. **Local Music Playback**
    - Click "Browse" to select local MP3 files
@@ -79,7 +79,7 @@ python Spotipy.py
    - Save favorite tracks
    - Queue management
 
-## Project Structure
+## 💻 Project Structure
 
 ```
 music-player/
@@ -94,8 +94,6 @@ music-player/
 └── database/
     └── schema.sql
 ```
-
-## Libraries Used
 
 - `tkinter`: GUI framework
 - `pygame.mixer`: Audio playback
