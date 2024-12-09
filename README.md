@@ -53,11 +53,14 @@ python Spotipy.py
 1. **Home page (For new User)**
     ![alt text](/Dependencies/readme_images/new_user_screen.png)
 
-2. **Home page (With Music Entries)**
-    ![alt text](/Dependencies/readme_images/song_screen.png")
+2. **Home Page with Songs**  
+   <img src="readme_images/song_screen.png" alt="SignIn Page" width="700">  
+   SignIn page
 
-3. **Home page (With Music Entries - Dark Mode)**
-    ![alt text](/Dependencies/readme_images/dark_song_screen.png")
+2. **Home Page -- Dark mode**  
+   <img src="readme_images/song_screen.png" alt="SignIn Page" width="700">  
+   SignIn page
+
 
 
 ### Features Guide:
