@@ -50,16 +50,17 @@ python Spotipy.py
 
 ## 🖼️ Screenshots
 
-1. **Home page (For new User)**
-    ![alt text](/Dependencies/readme_images/new_user_screen.png)
+1. **Home Page (for new user)**  
+   <img src="/Dependencies/readme_images/new_user_screen.png" alt="SignIn Page" width="700">  
+    
 
 2. **Home Page with Songs**  
    <img src="/Dependencies/readme_images/light.png" alt="SignIn Page" width="700">  
-   SignIn page
+    
 
 2. **Home Page -- Dark mode**  
    <img src="/Dependencies/readme_images/dark.png" alt="SignIn Page" width="700">  
-   SignIn page
+    
 
 
 
