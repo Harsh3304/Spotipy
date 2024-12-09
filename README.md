@@ -54,10 +54,10 @@ python Spotipy.py
     ![alt text](/Dependencies/readme_images/new_user_screen.png)
 
 2. **Home page (With Music Entries)**
-    ![alt text](/Dependencies/readme_images/screen_with_song_screen.png)
+    ![alt text](/Dependencies/readme_images/screen_with_songs_screen.png")
 
 3. **Home page (With Music Entries - Dark Mode)**
-    ![alt text](/Dependencies/readme_images/screen_with_song_screen.png)
+    ![alt text](/Dependencies/readme_images/screen_with_songs_screen_dark.png")
 
 
 ### Features Guide:
